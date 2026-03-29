@@ -8,4 +8,4 @@ def test_addition():
 def test_multiplication():
     assert multiplication(2, 3) == 6
     assert multiplication(-1, 3) == -3
-    assert multiplication(0, 5) == 0
+    assert multiplication(0, 2) == 0
